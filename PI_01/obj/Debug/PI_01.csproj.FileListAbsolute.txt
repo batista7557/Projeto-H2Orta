@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\PI_01\PI_01\bin\Debug\PI_01.exe.config
+C:\Users\Gabriel\source\repos\PI_01\PI_01\bin\Debug\PI_01.exe
+C:\Users\Gabriel\source\repos\PI_01\PI_01\bin\Debug\PI_01.pdb
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Form1.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Login.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.exe
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.pdb
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Home.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Clientes.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Estoque.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Manutencao.resources
+C:\Users\Gabriel\source\repos\PI_01\PI_01\obj\Debug\PI_01.Cadastro.resources
