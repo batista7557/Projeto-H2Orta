@@ -1,2 +1,6 @@
-# H2Ortas_01
-Software referente ao PI
+# H2Ortas - 06
+## Integrantes
+* Gabriel Batista
+* Mirael Ribeiro
+* Vitor Adriano
+* Victor Guirau
