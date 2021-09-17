@@ -1,6 +1,2 @@
-# H2Ortas - 06
-## Integrantes
-* Gabriel Batista
-* Mirael Ribeiro
-* Vitor Adriano
-* Victor Guirau
+# H2Orta
+Projeto desenvolvido no segundo semestre da faculdade de Análise e Desenvolvimento de sistemas, é um sistema desktop em C# que controla dados de clientes, estoque e vendas de uma empresa fictícia de estufas hidropônicas.
